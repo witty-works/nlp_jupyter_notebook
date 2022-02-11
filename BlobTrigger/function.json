@@ -1,0 +1,26 @@
+{
+  "scriptFile": "__init__.py",
+  "bindings": [
+    {
+      "name": "blobTriggerTest",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "input-witty-rules/{name}.csv",
+      "connection": "AzureWebJobsStorage"
+    },
+    {
+      "name": "inputBlob",
+      "type": "blob",
+      "direction": "in",
+      "path": "input-witty-rules/{name}.csv",
+      "connection": "AzureWebJobsStorage"
+    },
+    {
+      "type": "blob",
+      "name": "outputBlob",
+      "path": "output-witty-rules/{name}_new_out.csv",
+      "direction": "out",
+      "connection": "AzureWebJobsStorage"
+    }
+  ]
+}
