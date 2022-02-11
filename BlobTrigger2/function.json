@@ -1,0 +1,19 @@
+{
+  "scriptFile": "Hypen_transform_check.py",
+  "bindings": [
+    {
+      "name": "blobTrigger2",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "output-witty-rules/{name}_h.csv",
+      "connection": "AzureWebJobsStorage"
+    },
+    {
+      "type": "blob",
+      "name": "inBlob",
+      "path": "output-witty-rules/{name}_h.csv",
+      "direction": "in",
+      "connection": "AzureWebJobsStorage"
+    }
+  ]
+}
