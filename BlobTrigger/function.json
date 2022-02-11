@@ -1,5 +1,5 @@
 {
-  "scriptFile": "__init__.py",
+  "scriptFile": "Hypen_transform_English.py",
   "bindings": [
     {
       "name": "blobTriggerTest",
@@ -18,7 +18,7 @@
     {
       "type": "blob",
       "name": "outputBlob",
-      "path": "output-witty-rules/{name}_new_out.csv",
+      "path": "output-witty-rules/{name}_h.csv",
       "direction": "out",
       "connection": "AzureWebJobsStorage"
     }
