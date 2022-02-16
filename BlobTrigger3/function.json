@@ -7,6 +7,13 @@
       "direction": "in",
       "path": "output-witty-rules/{name}.csv",
       "connection": "AzureWebJobsStorage"
+    },
+    {
+      "name": "outblob",
+      "type": "blob",
+      "direction": "out",
+      "path": "output-witty-rules/ignore.txt",
+      "connection": "AzureWebJobsStorage"
     }
   ]
 }
