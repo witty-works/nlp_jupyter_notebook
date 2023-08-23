@@ -1,0 +1,49 @@
+label,sentence,purpose,word
+0,I spoke to her alone for twenty minutes.,train,alone
+0,One cold winter night I was alone in my room.,test,alone
+1,Russia alone must save Europe.,train,alone
+0,That issue alone could fill an entire chapter.,test,alone
+0,What was he doing out here alone in the middle of the desert?,train,alone
+1,She was thinking as if she alone were responsible.,train,alone
+0,This alone wears well.,train,alone
+0,Don't leave me here alone with that mad man on the loose!,test,alone
+0,There aren't many fools climbing alone.,train,alone
+0,A knock at the door reminded her she wasn't alone.,test,alone
+0,The kids are asleep and we're alone.,test,alone
+0,"Whatever the problem was, it remained in his mind alone.",train,alone
+0,Leave the deer alone!,train,alone
+0,But if you had been alone and it was a mountain lion...,test,alone
+0,Why did he insist on showing up when she was alone?,train,alone
+0,I was looking forward to a night alone with you.,train,alone
+0,A cold gust of wind asked why she was standing out here alone.,train,alone
+0,"Just remember, you each have been living alone for some time.",train,alone
+0,"They were alone, though.",test,alone
+0,She had spent her life alone; she had plenty of practice.,train,alone
+0,"Go away yourself, alone... came from various sides of the crowd.",train,alone
+0,Only when alone together were they free from such outrage and pain.,test,alone
+0,Nor do words alone prove that only he understood the meaning of the events.,train,alone
+0,He is constantly alone with his thoughts.,train,alone
+0,"Anyway, I saw your boss in town, so I figured you were alone.",train,alone
+0,Didn't I tell you it was dangerous to be alone?,test,alone
+0,I just don't think it's a good idea for us to be out here alone.,train,alone
+0,She had that much time alone.,test,alone
+0,I don't like you being up there alone.,train,alone
+0,"Thanks, but I'd rather go alone.",test,alone
+0,"Well, we finally have the chance to be alone.",train,alone
+0,You can't spend your life terrified to leave the house alone.,train,alone
+0,"With that, she left them alone.",train,alone
+0,That would leave him free to go alone.,test,alone
+0,Why don't you go on alone?,train,alone
+0,Don't be wandering off alone.,train,alone
+1,"You, and you alone, stand accountable for getting your work done on time and to a high standard.",train,alone
+1,"In addition to being responsible for something, when you're accountable you, and you alone, are also answerable for your actions.",train,alone
+1,Remember that You alone are responsible for your academic achievement.,train,alone
+1,You alone define which topics are relevant.,train,alone
+1,You alone determine which services you wish to use.,test,alone
+1,You determine the size of a sailboat that you can handle alone.,test,alone
+1,"When you delegate tasks, you free up time to concentrate on tasks that you must perform alone.",train,alone
+1,These and similar organizations are the agents to take care of those morally sensitive tasks which no one can perform alone.,train,alone
+1,A task with positive interdependence is a task that individual students cannot successfully perform alone.,test,alone
+1,"Determine whether it is a Task you should complete alone, or with others.",test,alone
+1,"As we and our loved ones age, even simple tasks such as cooking and cleaning can become difficult to complete alone.",train,alone
+1,Helping with personal hygiene tasks you would otherwise find difficult to complete alone.,train,alone
